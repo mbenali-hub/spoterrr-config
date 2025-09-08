@@ -1,6 +1,6 @@
 spring:
   application:
-    name: auth-service
+    name: authservice
 miapp:
   mensajebienvenida: "Bienvenido al sistema"
   featuretoggle:true
