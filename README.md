@@ -1,0 +1,2 @@
+# spoterrr-config
+General configuration
